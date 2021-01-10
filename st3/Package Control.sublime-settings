@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"Auto Close HTML Tags",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Emmet",
+		"Laravel Blade AutoComplete",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"Phpcs",
+		"SideBarEnhancements",
+		"SideBarTools",
+		"StyleToken",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-json",
+		"Svelte",
+		"Syntax Highlighting for PostCSS",
+		"Theme - Gravity",
+		"Vuejs Complete Package"
+	]
+}
